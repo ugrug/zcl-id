@@ -482,7 +482,7 @@
         "attrId":{
             "fanMode":{"id":0,"type":"enum8"},
             "fanModeSequence":{"id":1,"type":"enum8"}},
-        "cmd":null,
+        "cmd":{"setFanMode":0},
         "cmdRsp":null},
     "hvacDehumidificationCtrl": {
         "attrId":{

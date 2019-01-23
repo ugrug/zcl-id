@@ -1305,5 +1305,9 @@
     "lightLink": {
         "attrId":null,
         "cmd":{"scanReq":0,"deviceInformationReq":2,"identifyReq":6,"resetToFactoryNewReq":7,"networkStartReq":16,"networkJoinRouterReq":18,"networkJoinEndDeviceReq":20,"networkUpdateReq":22,"getGroupIdentifiersReq":65,"getEndpointListReq":66},
-        "cmdRsp":{"scanRsp":1,"deviceInformationRsp":3,"networkStartRsp":17,"networkJoinRouterRsp":19,"networkJoinEndDeviceRsp":21,"endpointInformation":64,"getGroupIdentifiersRsp":65,"getEndpointListRsp":66}}
+        "cmdRsp":{"scanRsp":1,"deviceInformationRsp":3,"networkStartRsp":17,"networkJoinRouterRsp":19,"networkJoinEndDeviceRsp":21,"endpointInformation":64,"getGroupIdentifiersRsp":65,"getEndpointListRsp":66}},
+    "manuSpecificCluster1": {
+        "attrId":{},
+        "cmd":null,
+        "cmdRsp":{"cmdRsp1":0}}
 }

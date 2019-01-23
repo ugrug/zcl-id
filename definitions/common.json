@@ -194,7 +194,10 @@
         "haElectricalMeasurement": 2820,
         "haDiagnostic": 2821,
         "lightLink": 4096,
-        "manuSpecificCluster": 65535
+        "manuSpecificCluster": 65535,
+        "manuSpecificCluster1": 64516,
+        "manuSpecificCluster2": 64518,
+        "manuSpecificCluster3": 64521
     },
     "dataType": {
         "noData": 0,

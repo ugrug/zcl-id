@@ -1315,6 +1315,6 @@
         "attrId":{
             "config":{"id":49,"type":"bitmap16"}},
         "cmd":null,
-        "cmdRsp":{"eventNotification":0}
+        "cmdRsp":{"hueNotification":0}
     }
 }
